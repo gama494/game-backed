@@ -1,15 +1,15 @@
 {
-  "name": "piz-bet-backend",
+  "name": "piz-bet-backend football",
   "version": "1.0.0",
   "main": "server.js",
-  "type": "module",  // <---- add this line
+  "type": "module",
   "scripts": {
     "start": "node server.js"
   },
   "dependencies": {
     "express": "^4.18.2",
-    "node-fetch": "^3.3.1",
-    "cors": "^2.8.5"
+    "cors": "^2.8.5",
+    "node-fetch": "^3.3.1"
   },
   "engines": {
     "node": "18.x"
