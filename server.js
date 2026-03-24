@@ -8,7 +8,7 @@ app.use(cors());
 
 // Your RapidAPI Key
 const RAPIDAPI_KEY = '66ddb6b5fcmsh71a33461789ac31p15eeaejsne53cf0473143';
-const RAPIDAPI_HOST = 'api-football-v1.p.rapidapi.com';
+const RAPIDAPI_HOST = 'rapidapi.com';
 
 // Simple cache to prevent 429 errors
 let cachedFixtures = null;
